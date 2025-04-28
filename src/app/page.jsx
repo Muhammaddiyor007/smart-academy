@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function HomePage() {
   return (
-    <section className="relative flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-blue-500 to-indigo-600 text-white p-6">
+    <section className=" flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-blue-500 to-indigo-600 text-white p-6">
       <div className="max-w-4xl text-center">
         <h1 className="text-5xl sm:text-6xl font-extrabold leading-tight text-white mb-4">
           SmartAcademy ga xush kelibsiz!
